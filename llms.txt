@@ -1,0 +1,46 @@
+# Berlin Swim Times
+
+> Public swimming times at Berlin's public indoor pools (Berliner Bäder-Betriebe) for today and the next 6 days, refreshed daily from berlinerbaeder.de. German and English. Last update: 2026-10-17T07:44:45.256Z.
+
+Each pool page states, per day, when public swimming takes place and whether the whole pool or only a reduced area is available. Times are as published by Berliner Bäder-Betriebe; their website is authoritative.
+
+## Overview
+- [Übersicht (Deutsch)](https://berlin-swim-times.johannesotterbach.com/): all pools, 7-day table
+- [Overview (English)](https://berlin-swim-times.johannesotterbach.com/en/): all pools, 7-day table
+
+## Pools
+- [Kleine Schwimmhalle Wuhlheide](https://berlin-swim-times.johannesotterbach.com/en/pool/kleine-schwimmhalle-wuhlheide/): An der Wuhlheide 161, 12459 Berlin (Treptow-Köpenick); German: https://berlin-swim-times.johannesotterbach.com/bad/kleine-schwimmhalle-wuhlheide/
+- [Kombibad Gropiusstadt - Hallenbad](https://berlin-swim-times.johannesotterbach.com/en/pool/kombibad-gropiusstadt-hallenbad/): Lipschitzallee 27-33, 12351 Berlin (Neukölln); German: https://berlin-swim-times.johannesotterbach.com/bad/kombibad-gropiusstadt-hallenbad/
+- [Kombibad Seestraße - Hallenbad](https://berlin-swim-times.johannesotterbach.com/en/pool/kombibad-seestrasse-hallenbad/): Seestraße 80, 13347 Berlin (Mitte); German: https://berlin-swim-times.johannesotterbach.com/bad/kombibad-seestrasse-hallenbad/
+- [Kombibad Spandau Süd - Hallenbad](https://berlin-swim-times.johannesotterbach.com/en/pool/kombibad-spandau-sued-hallenbad/): Gatower Straße 19, 13595 Berlin (Spandau); German: https://berlin-swim-times.johannesotterbach.com/bad/kombibad-spandau-sued-hallenbad/
+- [Schwimm- und Sprunghalle im Europasportpark (SSE)](https://berlin-swim-times.johannesotterbach.com/en/pool/schwimm-und-sprunghalle-im-europasportpark-sse/): Paul-Heyse-Straße 26, 10407 Berlin (Pankow); German: https://berlin-swim-times.johannesotterbach.com/bad/schwimm-und-sprunghalle-im-europasportpark-sse/
+- [Schwimmhalle Allendeviertel](https://berlin-swim-times.johannesotterbach.com/en/pool/schwimmhalle-allendeviertel/): Pablo-Neruda-Straße 5, 12559 Berlin (Treptow-Köpenick); German: https://berlin-swim-times.johannesotterbach.com/bad/schwimmhalle-allendeviertel/
+- [Schwimmhalle Anton-Saefkow-Platz](https://berlin-swim-times.johannesotterbach.com/en/pool/schwimmhalle-anton-saefkow-platz/): Anton-Saefkow-Platz 1, 10369 Berlin (Lichtenberg); German: https://berlin-swim-times.johannesotterbach.com/bad/schwimmhalle-anton-saefkow-platz/
+- [Schwimmhalle Baumschulenweg](https://berlin-swim-times.johannesotterbach.com/en/pool/schwimmhalle-baumschulenweg/): Neue Krugallee 209, 12437 Berlin (Treptow-Köpenick); German: https://berlin-swim-times.johannesotterbach.com/bad/schwimmhalle-baumschulenweg/
+- [Schwimmhalle Buch](https://berlin-swim-times.johannesotterbach.com/en/pool/schwimmhalle-buch/): Wolfgang-Heinz-Straße 41, 13125 Berlin (Pankow); German: https://berlin-swim-times.johannesotterbach.com/bad/schwimmhalle-buch/
+- [Schwimmhalle Ernst-Thälmann-Park](https://berlin-swim-times.johannesotterbach.com/en/pool/schwimmhalle-ernst-thaelmann-park/): Lilli-Henoch-Straße 20, 10405 Berlin (Pankow); German: https://berlin-swim-times.johannesotterbach.com/bad/schwimmhalle-ernst-thaelmann-park/
+- [Schwimmhalle Finckensteinallee](https://berlin-swim-times.johannesotterbach.com/en/pool/schwimmhalle-finckensteinallee/): Finckensteinallee 73, 12205 Berlin (Steglitz-Zehlendorf); German: https://berlin-swim-times.johannesotterbach.com/bad/schwimmhalle-finckensteinallee/
+- [Schwimmhalle Fischerinsel](https://berlin-swim-times.johannesotterbach.com/en/pool/schwimmhalle-fischerinsel/): Fischerinsel 11, 10179 Berlin (Mitte); German: https://berlin-swim-times.johannesotterbach.com/bad/schwimmhalle-fischerinsel/
+- [Schwimmhalle Helene-Weigel-Platz "Helmut Behrendt"](https://berlin-swim-times.johannesotterbach.com/en/pool/schwimmhalle-helene-weigel-platz-helmut-behrendt/): Helene-Weigel-Platz 9, 12681 Berlin (Marzahn-Hellersdorf); German: https://berlin-swim-times.johannesotterbach.com/bad/schwimmhalle-helene-weigel-platz-helmut-behrendt/
+- [Schwimmhalle Hüttenweg](https://berlin-swim-times.johannesotterbach.com/en/pool/schwimmhalle-huettenweg/): Hüttenweg 41, 14195 Berlin (Steglitz-Zehlendorf); German: https://berlin-swim-times.johannesotterbach.com/bad/schwimmhalle-huettenweg/
+- [Schwimmhalle Kaulsdorf](https://berlin-swim-times.johannesotterbach.com/en/pool/schwimmhalle-kaulsdorf/): Clara-Zetkin-Weg 13, 12619 Berlin (Marzahn-Hellersdorf); German: https://berlin-swim-times.johannesotterbach.com/bad/schwimmhalle-kaulsdorf/
+- [Schwimmhalle Kreuzberg](https://berlin-swim-times.johannesotterbach.com/en/pool/schwimmhalle-kreuzberg/): Gitschiner Straße 18, 10969 Berlin (Friedrichshain-Kreuzberg); German: https://berlin-swim-times.johannesotterbach.com/bad/schwimmhalle-kreuzberg/
+- [Schwimmhalle Sewanstraße](https://berlin-swim-times.johannesotterbach.com/en/pool/schwimmhalle-sewanstrasse/): Sewanstraße 229, 10319 Berlin (Lichtenberg); German: https://berlin-swim-times.johannesotterbach.com/bad/schwimmhalle-sewanstrasse/
+- [Schwimmhalle Thomas-Mann-Straße](https://berlin-swim-times.johannesotterbach.com/en/pool/schwimmhalle-thomas-mann-strasse/): Thomas-Mann-Straße 3, 10409 Berlin (Pankow); German: https://berlin-swim-times.johannesotterbach.com/bad/schwimmhalle-thomas-mann-strasse/
+- [Schwimmhalle Zingster Straße](https://berlin-swim-times.johannesotterbach.com/en/pool/schwimmhalle-zingster-strasse/): Zingster Straße 16, 13051 Berlin (Lichtenberg); German: https://berlin-swim-times.johannesotterbach.com/bad/schwimmhalle-zingster-strasse/
+- [Sommerbad Kreuzberg](https://berlin-swim-times.johannesotterbach.com/en/pool/sommerbad-kreuzberg/): Prinzenstraße 113/118, 10969 Berlin (Friedrichshain-Kreuzberg); German: https://berlin-swim-times.johannesotterbach.com/bad/sommerbad-kreuzberg/
+- [Sport- und Lehrschwimmhalle Schöneberg](https://berlin-swim-times.johannesotterbach.com/en/pool/sport-und-lehrschwimmhalle-schoeneberg/): Sachsendamm 11, 10829 Berlin (Tempelhof-Schöneberg); German: https://berlin-swim-times.johannesotterbach.com/bad/sport-und-lehrschwimmhalle-schoeneberg/
+- [Stadtbad Charlottenburg - Alte Halle](https://berlin-swim-times.johannesotterbach.com/en/pool/stadtbad-charlottenburg-alte-halle/): Krumme Straße 10, 10585 Berlin (Charlottenburg-Wilmersdorf); German: https://berlin-swim-times.johannesotterbach.com/bad/stadtbad-charlottenburg-alte-halle/
+- [Stadtbad Lankwitz](https://berlin-swim-times.johannesotterbach.com/en/pool/stadtbad-lankwitz/): Leonorenstraße 39, 12247 Berlin (Steglitz-Zehlendorf); German: https://berlin-swim-times.johannesotterbach.com/bad/stadtbad-lankwitz/
+- [Stadtbad Mitte "James Simon"](https://berlin-swim-times.johannesotterbach.com/en/pool/stadtbad-mitte-james-simon/): Gartenstraße 5, 10115 Berlin (Mitte); German: https://berlin-swim-times.johannesotterbach.com/bad/stadtbad-mitte-james-simon/
+- [Stadtbad Neukölln](https://berlin-swim-times.johannesotterbach.com/en/pool/stadtbad-neukoelln/): Ganghoferstraße 3, 12043 Berlin (Neukölln); German: https://berlin-swim-times.johannesotterbach.com/bad/stadtbad-neukoelln/
+- [Stadtbad Schöneberg "Hans Rosenthal"](https://berlin-swim-times.johannesotterbach.com/en/pool/stadtbad-schoeneberg-hans-rosenthal/): Hauptstraße 39, 10827 Berlin (Tempelhof-Schöneberg); German: https://berlin-swim-times.johannesotterbach.com/bad/stadtbad-schoeneberg-hans-rosenthal/
+- [Stadtbad Spandau Nord](https://berlin-swim-times.johannesotterbach.com/en/pool/stadtbad-spandau-nord/): Radelandstraße 1, 13589 Berlin (Spandau); German: https://berlin-swim-times.johannesotterbach.com/bad/stadtbad-spandau-nord/
+- [Stadtbad Tempelhof](https://berlin-swim-times.johannesotterbach.com/en/pool/stadtbad-tempelhof/): Götzstraße 14-18, 12099 Berlin (Tempelhof-Schöneberg); German: https://berlin-swim-times.johannesotterbach.com/bad/stadtbad-tempelhof/
+- [Stadtbad Tiergarten](https://berlin-swim-times.johannesotterbach.com/en/pool/stadtbad-tiergarten/): Seydlitzstraße 7, 10557 Berlin (Mitte); German: https://berlin-swim-times.johannesotterbach.com/bad/stadtbad-tiergarten/
+- [Stadtbad Wilmersdorf I](https://berlin-swim-times.johannesotterbach.com/en/pool/stadtbad-wilmersdorf-i/): Mecklenburgische Straße 80, 10713 Berlin (Charlottenburg-Wilmersdorf); German: https://berlin-swim-times.johannesotterbach.com/bad/stadtbad-wilmersdorf-i/
+- [Stadtbad Wilmersdorf II](https://berlin-swim-times.johannesotterbach.com/en/pool/stadtbad-wilmersdorf-ii/): Fritz-Wildung-Straße 7, 14199 Berlin (Charlottenburg-Wilmersdorf); German: https://berlin-swim-times.johannesotterbach.com/bad/stadtbad-wilmersdorf-ii/
+
+## Data (JSON, updated daily)
+- [upcoming.json](https://berlin-swim-times.johannesotterbach.com/data/upcoming.json): public sessions per pool and date for 14 days; kind = full | reduced | restricted
+- [pools.json](https://berlin-swim-times.johannesotterbach.com/data/pools.json): names, addresses, coordinates, current notices
