@@ -1,0 +1,20 @@
+# Everyone is welcome, AI crawlers included: the timetables are public information.
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://berlin-swim-times.johannesotterbach.com/sitemap.xml
